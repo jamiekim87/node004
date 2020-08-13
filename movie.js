@@ -13,6 +13,7 @@ inquirer.prompt({
         console.log(`
           ${data.Title}
           Directed by ${data.Director}
+          
           ${data.Plot}
         `)
       })
